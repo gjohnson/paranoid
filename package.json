@@ -19,7 +19,7 @@
   "author": "Garrett Johnson",
   "license": "MIT",
   "devDependencies": {
-    "better-assert": "~1.0.0",
+    "better-assert": "~1.0.0"
   },
   "dependencies": {
     "clone": "~0.1.9"
