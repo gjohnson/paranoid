@@ -1,0 +1,27 @@
+{
+  "name": "paranoid",
+  "version": "0.0.0",
+  "description": "safe place to run functions",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gjohnson/paranoid"
+  },
+  "keywords": [
+    "paranoid"
+  ],
+  "author": "Garrett Johnson",
+  "license": "MIT",
+  "devDependencies": {
+    "better-assert": "~1.0.0",
+  },
+  "dependencies": {
+    "clone": "~0.1.9"
+  }
+}
