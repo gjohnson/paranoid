@@ -1,6 +1,6 @@
 {
   "name": "paranoid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "safe place to run functions",
   "main": "index.js",
   "directories": {
